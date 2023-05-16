@@ -1,5 +1,7 @@
 # Snowboards & Co 
+> Quick note: This project is a school project, it is not meant to be used in production.
 
+> Quick note #2 : CI/CD is up and running but due to local issues, the pipeline is going through at the moment
 ## Article API
 ### POST /create
 Crée un article dans le catalogue
